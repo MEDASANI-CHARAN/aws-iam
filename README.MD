@@ -1,17 +1,5 @@
 # Understanding AWS IAM
 
-### XML vs JSON vs YAML
-https://www.youtube.com/watch?v=B41iEHtRxPI
-
-### Announcement:
-**Upcoming DevOps with AWS batch: 31-MAR-2024** <br/>
-Demo: 31-MAR-2024 10:30AM IST <br/>
-Classes: 01-APR-2024 Onwards <br/>
-Timings: 07:15-08:45AM IST <br/>
-Duration: 120Hours MON-FRI <br/>
-**Register in: https://www.joindevops.com** <br/>
-**Language: Telugu** <br/>
-
 Every system typically incorporates mechanisms for **authentication** and **authorization**:
 
 - **Authentication** verifies if an individual or entity is part of the system.
